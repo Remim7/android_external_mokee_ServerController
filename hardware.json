@@ -1342,5 +1342,13 @@
     "battery": "3500 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
     "cpuarch": "arm"
+  },
+  "nash": {
+    "cpu": "Qualcomm® Snapdragon™ 835",
+    "ram": "4GB/6GB",
+    "rom": "64GB/128GB",
+    "battery": "2730 mAh",
+    "display": "5.5 inch, 2560x1440 pixel(534ppi)",
+    "cpuarch": "arm64"
   }
 }
